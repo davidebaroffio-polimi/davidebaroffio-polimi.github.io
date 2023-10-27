@@ -8,17 +8,7 @@ venue: "Politecnico di Milano"
 
 Tutorati pre-esame per il corso di Informatica per Aerospaziali (A.A. 2023-2024). 
 
-# Sessioni di tutorato
+**Link utili**: [WeBeep](https://webeep.polimi.it/course/view.php?id=11460).
+
 ## Sessione di Gennaio
-- Data e ora: *TBD*
-- Aula: *TBD*
-- Aula virtuale: *TBD*
-
-## Sessione di Febbraio
-- Data e ora: *TBD*
-- Aula: *TBD*
-- Aula virtuale: *TBD*
-
-# Materiale
-
 *Coming soon...*
