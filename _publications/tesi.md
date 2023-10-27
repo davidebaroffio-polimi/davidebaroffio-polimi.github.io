@@ -2,7 +2,7 @@
 title: "Hardening safety-critical systems against transient faults via SIHFT compiler transformations"
 collection: publications
 permalink: /publication/tesi.md
-date: 2023
+date: 18-07-2023
 venue: 'Politecnico di Milano'
 paperurl: 'https://www.politesi.polimi.it/handle/10589/212232'
 ---

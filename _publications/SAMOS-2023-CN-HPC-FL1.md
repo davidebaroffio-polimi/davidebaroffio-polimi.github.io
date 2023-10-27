@@ -2,7 +2,7 @@
 title: "RISC-V-based Platforms for HPC: Analyzing Non-functional Properties for Future HPC and Big-Data Clusters"
 collection: publications
 permalink: /publication/SAMOS-2023-CN-HPC-FL1
-date: 2023
+date: 2023-01-01
 venue: 'LECTURE NOTES IN COMPUTER SCIENCE'
 paperurl: 'https://iris.unito.it/handle/2318/1920390'
 ---

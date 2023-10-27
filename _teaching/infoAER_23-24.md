@@ -4,7 +4,6 @@ collection: teaching
 type: "Tutorato"
 permalink: /teaching/infoAER_23-24
 venue: "Politecnico di Milano"
-date: 2014-01-01
 ---
 
 Tutorati pre-esame per il corso di Informatica per Aerospaziali (A.A. 2023-2024). 
