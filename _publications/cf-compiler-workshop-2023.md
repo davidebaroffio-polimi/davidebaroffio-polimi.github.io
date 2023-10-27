@@ -1,9 +1,9 @@
 ---
 title: "Compiler-Injected SIHFT for Embedded Operating Systems"
 collection: publications
-permalink: /publication/2023_cf_compiler_workshop
+permalink: /publication/cf-compiler-workshop-2023
 date: 2023-08-04
-venue: '20th ACM International Conference on Computing Frontiers (CF'23)'
+venue: '20th ACM International Conference on Computing Frontiers (CF`23)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3587135.3589944'
 ---
 
