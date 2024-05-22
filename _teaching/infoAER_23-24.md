@@ -23,3 +23,22 @@ Venerdì 02/02/2024 dalle _09:00_ alle _13:00_ nella [stanza virtuale di Microso
 ### Materiale
 - [Testo](https://davidebaroffio-polimi.github.io/files/23_infoaer/tutorato_2/testo.pdf)
 - [Soluzioni](https://davidebaroffio-polimi.github.io/files/23_infoaer/tutorato_2/soluzioni.zip)
+
+## Sessione di Giugno
+Martedì 24/06/2024 dalle _09:00_ alle _13:00_ nella [stanza virtuale Webex](http://politecnicomilano.webex.com/meet/davide.baroffio).
+
+### Materiale
+_Coming soon..._
+
+## Sessione di Luglio
+Martedì 09/07/2024 dalle _09:00_ alle _13:00_ nella [stanza virtuale Webex](http://politecnicomilano.webex.com/meet/davide.baroffio).
+
+### Materiale
+_Coming soon..._
+
+
+## Sessione di Settembre
+Giovedì 29/08/2024 dalle _09:00_ alle _13:00_ nella [stanza virtuale Webex](http://politecnicomilano.webex.com/meet/davide.baroffio).
+
+### Materiale
+_Coming soon..._
