@@ -15,3 +15,9 @@ Davide Baroffio is a PhD student at the *Department of Electronics, Information 
 ### Contacts
 - **Email**: [davide.baroffio@polimi.it](mailto:davide.baroffio@polimi.it)
 - **Office**: Building 21, Floor 1, Office 003
+
+## Projects
+### ASPIS
+ASPIS - Automatic Software-based Protection and Integrity Suite - (from the ancient Greek Ἀσπίς Aspís, shield) is an out-of-tree plugin for LLVM that acts on the Intermediate-Representation (IR) in order to harden the code against Single-Event Upsets (SEUs). 
+
+Check it out on [GitHub](https://github.com/HEAPLab/ASPIS).
